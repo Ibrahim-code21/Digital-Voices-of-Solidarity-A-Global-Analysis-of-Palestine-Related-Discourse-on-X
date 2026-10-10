@@ -1,0 +1,65 @@
+country,term,posts,authors,n_country_posts,pct_posts
+Australia,israel,23,20,46,50.0
+Australia,israeli,17,14,46,37.0
+Australia,australia,8,7,46,17.4
+Australia,international,8,6,46,17.4
+Australia,people,8,5,46,17.4
+Australia,military,8,5,46,17.4
+Australia,settlers,7,6,46,15.2
+Australia,may,7,5,46,15.2
+Canada,israel,25,23,60,41.7
+Canada,israeli,23,17,60,38.3
+Canada,occupied,15,9,60,25.0
+Canada,canada,10,10,60,16.7
+Canada,people,9,9,60,15.0
+Canada,genocide,8,8,60,13.3
+Canada,military,7,7,60,11.7
+Canada,human,7,7,60,11.7
+India,israeli,15,10,36,41.7
+India,israel,14,12,36,38.9
+India,iran,11,9,36,30.6
+India,international,10,8,36,27.8
+India,india,8,7,36,22.2
+India,human,8,7,36,22.2
+India,state,8,7,36,22.2
+India,war,8,6,36,22.2
+Ireland,israeli,7,6,20,35.0
+Ireland,israel,6,5,20,30.0
+Ireland,hamas,3,3,20,15.0
+Ireland,happening,3,3,20,15.0
+Ireland,players,3,3,20,15.0
+Ireland,lebanon,3,3,20,15.0
+Ireland,state,3,3,20,15.0
+Ireland,totally,3,2,20,15.0
+Israel,attack,13,11,38,34.2
+Israel,israeli,13,9,38,34.2
+Israel,area,10,9,38,26.3
+Israel,israel,9,9,38,23.7
+Israel,idf,9,6,38,23.7
+Israel,shooting,8,8,38,21.1
+Israel,hamas,7,7,38,18.4
+Israel,terrorist,7,6,38,18.4
+Philippines,israeli,11,6,21,52.4
+Philippines,settler,9,9,21,42.9
+Philippines,actions,9,6,21,42.9
+Philippines,israel,8,8,21,38.1
+Philippines,read,8,8,21,38.1
+Philippines,settlement,7,7,21,33.3
+Philippines,sheeran,7,4,21,33.3
+Philippines,government,7,4,21,33.3
+United Kingdom,israeli,54,43,147,36.7
+United Kingdom,israel,52,44,147,35.4
+United Kingdom,occupied,31,25,147,21.1
+United Kingdom,people,21,17,147,14.3
+United Kingdom,settlement,20,19,147,13.6
+United Kingdom,government,20,18,147,13.6
+United Kingdom,genocide,18,14,147,12.2
+United Kingdom,state,17,16,147,11.6
+United States,israel,168,148,408,41.2
+United States,israeli,135,112,408,33.1
+United States,people,65,61,408,15.9
+United States,war,62,55,408,15.2
+United States,occupied,59,46,408,14.5
+United States,state,57,50,408,14.0
+United States,hamas,51,48,408,12.5
+United States,like,50,46,408,12.3

@@ -1,0 +1,7 @@
+check,posts,same_pct,kappa
+"Same labeler, re-label: 4 labels",40,72,0.6
+"Same labeler, re-label: support vs not",40,88,0.75
+"Same labeler, re-label: criticism flag",40,70,0.36
+Two labelers: 4 labels,100,46,0.26
+Two labelers: support vs not,100,63,0.11
+Two labelers: criticism flag,100,63,0.28
